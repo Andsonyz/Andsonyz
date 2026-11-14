@@ -23,7 +23,31 @@ A acessibilidade influencia a forma como penso uma interface, desde a navegaçã
 
 <h2 align="center">💻 Tecnologias</h2>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=react,ts,html,css,nodejs,java,python,postgres,git,docker,aws&amp;perline=6" alt="React, TypeScript, HTML, CSS, Node.js, Java, Python, PostgreSQL, Git, Docker e AWS" /></p>
+<h3 align="center">Front-end</h3>
+<p align="center"><em>Interfaces &amp; interação</em></p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vite,react&amp;perline=4" alt="HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, Vite, React" /></p>
+<p align="center">HTML5 · CSS3 · JavaScript · TypeScript · Tailwind CSS · Vite · React</p>
+
+<h3 align="center">Linguagens &amp; execução</h3>
+<p align="center"><em>Lógica, estrutura &amp; runtime</em></p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=java,python,nodejs,c,cpp&amp;perline=4" alt="Java, Python, Node.js, C, C++" /></p>
+<p align="center">Java · Python · Node.js · C · C++</p>
+
+<p align="center"><small>Node.js é um ambiente de execução JavaScript.</small></p>
+
+<h3 align="center">Banco de Dados</h3>
+<p align="center"><em>Modelagem &amp; informação</em></p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres&amp;perline=4" alt="MySQL, PostgreSQL" /></p>
+<p align="center">MySQL · PostgreSQL</p>
+
+<h3 align="center">Ferramentas</h3>
+<p align="center"><em>Processo &amp; colaboração</em></p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma&amp;perline=4" alt="Git, GitHub, Docker, AWS, Figma" /></p>
+<p align="center">Git · GitHub · Docker · AWS · Figma</p>
 
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
