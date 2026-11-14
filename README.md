@@ -21,33 +21,46 @@ A acessibilidade influencia a forma como penso uma interface, desde a navegaçã
 
 <p align="center"><a href="https://andsonrocha.vercel.app/">Portfólio ↗</a> · <a href="https://github.com/Andsonyz">GitHub ↗</a></p>
 
-<h2 align="center">💻 Tecnologias</h2>
+<h2 align="center">💻 Tecnologias que utilizo</h2>
 
-<h3 align="center">Front-end</h3>
-<p align="center"><em>Interfaces &amp; interação</em></p>
-
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vite,react&amp;perline=4" alt="HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, Vite, React" /></p>
-<p align="center">HTML5 · CSS3 · JavaScript · TypeScript · Tailwind CSS · Vite · React</p>
-
-<h3 align="center">Linguagens &amp; execução</h3>
-<p align="center"><em>Lógica, estrutura &amp; runtime</em></p>
-
-<p align="center"><img src="https://skillicons.dev/icons?i=java,python,nodejs,c,cpp&amp;perline=4" alt="Java, Python, Node.js, C, C++" /></p>
-<p align="center">Java · Python · Node.js · C · C++</p>
-
-<p align="center"><small>Node.js é um ambiente de execução JavaScript.</small></p>
-
-<h3 align="center">Banco de Dados</h3>
-<p align="center"><em>Modelagem &amp; informação</em></p>
-
-<p align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres&amp;perline=4" alt="MySQL, PostgreSQL" /></p>
-<p align="center">MySQL · PostgreSQL</p>
-
-<h3 align="center">Ferramentas</h3>
-<p align="center"><em>Processo &amp; colaboração</em></p>
-
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma&amp;perline=4" alt="Git, GitHub, Docker, AWS, Figma" /></p>
-<p align="center">Git · GitHub · Docker · AWS · Figma</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Front-end</h3>
+      <p><img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vite,react&amp;perline=4" alt="Ícones de HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Vite e React" width="112" /></p>
+      <p>HTML5 · CSS3 · JavaScript · TypeScript · Tailwind CSS · Vite · React</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Linguagens e execução</h3>
+      <p><img src="https://skillicons.dev/icons?i=java,python,nodejs,c,cpp&amp;perline=4" alt="Ícones de Java, Python, Node.js, C e C++" width="112" /></p>
+      <p>Java · Python · Node.js · C · C++</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Bancos de dados</h3>
+      <p><img src="https://skillicons.dev/icons?i=mysql,postgres&amp;perline=2" alt="Ícones de MySQL e PostgreSQL" width="96" /></p>
+      <p>MySQL · PostgreSQL</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Desenvolvimento e colaboração</h3>
+      <p><img src="https://skillicons.dev/icons?i=git,github,figma,npm&amp;perline=4" alt="Ícones de Git, GitHub, Figma e npm" width="112" /></p>
+      <p>Git · GitHub · Figma · npm · npm Workspaces</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Testes</h3>
+      <p><img src="https://skillicons.dev/icons?i=vitest,py&amp;perline=2" alt="Ícones de Vitest e Python para os testes com pytest" width="96" /></p>
+      <p>Vitest · pytest</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Nuvem, automação e hospedagem</h3>
+      <p><img src="https://skillicons.dev/icons?i=aws,githubactions,vercel,cloudflare&amp;perline=4" alt="Ícones de AWS, GitHub Actions, Vercel e Cloudflare" width="112" /></p>
+      <p>AWS · GitHub Actions · Vercel · Vercel Web Analytics · Cloudflare Pages</p>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🧭 Tecnologias com conhecimento inicial</h2>
 
@@ -57,37 +70,37 @@ A acessibilidade influencia a forma como penso uma interface, desde a navegaçã
   <tr>
     <td width="50%" valign="top">
       <h3>Back-end e APIs</h3>
-      <p><img src="https://skillicons.dev/icons?i=django,express&amp;perline=2" alt="Ícones de Django e Express" width="112" /></p>
+      <p><img src="https://skillicons.dev/icons?i=django,express&amp;perline=2" alt="Ícones de Django e Express" width="96" /></p>
       <p>Django · Django REST Framework · Express · Socket.IO</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Banco de dados e serviços</h3>
-      <p><img src="https://skillicons.dev/icons?i=sqlite,supabase&amp;perline=2" alt="Ícones de SQLite e Supabase" width="112" /></p>
+      <h3>Bancos de dados e serviços</h3>
+      <p><img src="https://skillicons.dev/icons?i=sqlite,supabase&amp;perline=2" alt="Ícones de SQLite e Supabase" width="96" /></p>
       <p>SQLite · Supabase</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Interfaces e animação</h3>
-      <p><img src="https://skillicons.dev/icons?i=react&amp;perline=1" alt="Ícone de React" width="56" /></p>
+      <h3>Interfaces e animações</h3>
+      <p><img src="https://skillicons.dev/icons?i=react&amp;perline=1" alt="Ícone de React para ferramentas de interface" width="48" /></p>
       <p>GSAP · Motion · React Router</p>
     </td>
     <td width="50%" valign="top">
       <h3>Java para desktop e gráficos</h3>
-      <p><img src="https://skillicons.dev/icons?i=java&amp;perline=1" alt="Ícone de Java" width="56" /></p>
+      <p><img src="https://skillicons.dev/icons?i=java&amp;perline=1" alt="Ícone de Java para ferramentas desktop" width="48" /></p>
       <p>Swing · AWT/Graphics2D · JavaFX</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Testes e qualidade de código</h3>
-      <p><img src="https://skillicons.dev/icons?i=vitest&amp;perline=1" alt="Ícone de Vitest" width="56" /></p>
-      <p>Vitest · Supertest · pytest · pytest-django · ESLint · Prettier</p>
+      <p><img src="https://skillicons.dev/icons?i=vitest&amp;perline=1" alt="Ícone de Vitest para ferramentas de teste" width="48" /></p>
+      <p>Supertest · pytest-django · ESLint · Prettier</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Ferramentas, automação e hospedagem</h3>
-      <p><img src="https://skillicons.dev/icons?i=npm,githubactions,vercel,cloudflare&amp;perline=4" alt="Ícones de npm, GitHub Actions, Vercel e Cloudflare" width="112" /></p>
-      <p>npm · npm Workspaces · GitHub Actions · Vercel · Vercel Web Analytics · Cloudflare Pages</p>
+      <h3>Containers</h3>
+      <p><img src="https://skillicons.dev/icons?i=docker&amp;perline=1" alt="Ícone de Docker" width="48" /></p>
+      <p>Docker</p>
     </td>
   </tr>
 </table>
