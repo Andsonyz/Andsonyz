@@ -49,6 +49,49 @@ A acessibilidade influencia a forma como penso uma interface, desde a navegaçã
 <p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma&amp;perline=4" alt="Git, GitHub, Docker, AWS, Figma" /></p>
 <p align="center">Git · GitHub · Docker · AWS · Figma</p>
 
+<h2 align="center">🧭 Tecnologias com conhecimento inicial</h2>
+
+<p align="center">Também tive contato com as tecnologias abaixo em projetos e estudos. Tenho conhecimento inicial e sigo aprendendo com a prática.</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Back-end e APIs</h3>
+      <p><img src="https://skillicons.dev/icons?i=django,express&amp;perline=2" alt="Ícones de Django e Express" width="112" /></p>
+      <p>Django · Django REST Framework · Express · Socket.IO</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Banco de dados e serviços</h3>
+      <p><img src="https://skillicons.dev/icons?i=sqlite,supabase&amp;perline=2" alt="Ícones de SQLite e Supabase" width="112" /></p>
+      <p>SQLite · Supabase</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Interfaces e animação</h3>
+      <p><img src="https://skillicons.dev/icons?i=react&amp;perline=1" alt="Ícone de React" width="56" /></p>
+      <p>GSAP · Motion · React Router</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Java para desktop e gráficos</h3>
+      <p><img src="https://skillicons.dev/icons?i=java&amp;perline=1" alt="Ícone de Java" width="56" /></p>
+      <p>Swing · AWT/Graphics2D · JavaFX</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Testes e qualidade de código</h3>
+      <p><img src="https://skillicons.dev/icons?i=vitest&amp;perline=1" alt="Ícone de Vitest" width="56" /></p>
+      <p>Vitest · Supertest · pytest · pytest-django · ESLint · Prettier</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Ferramentas, automação e hospedagem</h3>
+      <p><img src="https://skillicons.dev/icons?i=npm,githubactions,vercel,cloudflare&amp;perline=4" alt="Ícones de npm, GitHub Actions, Vercel e Cloudflare" width="224" /></p>
+      <p>npm · npm Workspaces · GitHub Actions · Vercel · Vercel Web Analytics · Cloudflare Pages</p>
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center"><a href="https://github.com/Andsonyz?tab=overview"><img width="78%" src="https://streak-stats.demolab.com/?user=Andsonyz&amp;theme=transparent&amp;locale=pt_BR&amp;hide_border=true" alt="Contribuições e sequências de atividade de Andson Rocha" /></a></p>
