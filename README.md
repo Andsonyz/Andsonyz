@@ -86,7 +86,7 @@ A acessibilidade influencia a forma como penso uma interface, desde a navegaçã
     </td>
     <td width="50%" valign="top">
       <h3>Ferramentas, automação e hospedagem</h3>
-      <p><img src="https://skillicons.dev/icons?i=npm,githubactions,vercel,cloudflare&amp;perline=4" alt="Ícones de npm, GitHub Actions, Vercel e Cloudflare" width="224" /></p>
+      <p><img src="https://skillicons.dev/icons?i=npm,githubactions,vercel,cloudflare&amp;perline=4" alt="Ícones de npm, GitHub Actions, Vercel e Cloudflare" width="112" /></p>
       <p>npm · npm Workspaces · GitHub Actions · Vercel · Vercel Web Analytics · Cloudflare Pages</p>
     </td>
   </tr>
